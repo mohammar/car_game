@@ -12,7 +12,7 @@ void delay(unsigned int mseconds)
 }
 class Car {
    public:
-        int position =10;
+        int position =0;
 
         // function for moving forward the car
         int move_front(int pos)
